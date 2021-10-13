@@ -1,3 +1,7 @@
+https://docs.google.com/document/d/160Duqz5d6uanPiWlQ696Dqes0-mzZUnKD5Y296AQ794/edit#heading=h.5siqg9x1u9bc
+
+
+
 # Talk: Going headless - from zero to Next.js hero
 
 > The live coding repo for the Next.js talk with Storyblok.
