@@ -1,4 +1,4 @@
-https://docs.google.com/document/d/160Duqz5d6uanPiWlQ696Dqes0-mzZUnKD5Y296AQ794/edit#heading=h.5siqg9x1u9bc
+https://www.storyblok.com/tp/add-a-headless-cms-to-next-js-in-5-minutes#adding-preview-mode
 
 
 
