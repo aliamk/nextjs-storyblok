@@ -1,5 +1,14 @@
 https://www.storyblok.com/tp/add-a-headless-cms-to-next-js-in-5-minutes#adding-preview-mode
 
+# Preview mode is working using the guide above
+
+# But I can only make it work if I hardcode my api key... can't figure out why the env variables aren't working
+# Main pages involved in setting up the preview are:  pages > index.js, api > preview.js, lib > storyblok
+
+
+![Screenshot 2021-10-13 at 16 35 34](https://user-images.githubusercontent.com/63723832/137166665-511071e9-6bca-4215-8d85-c031cfdd12ac.png)
+
+![Screenshot 2021-10-13 at 16 32 39](https://user-images.githubusercontent.com/63723832/137166681-15048cef-f34f-4b6c-99c4-a408b9bab97e.png)
 
 
 # Talk: Going headless - from zero to Next.js hero
