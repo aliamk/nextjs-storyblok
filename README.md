@@ -4,7 +4,9 @@ https://www.storyblok.com/tp/add-a-headless-cms-to-next-js-in-5-minutes#adding-p
 
 # But I can only make it work if I hardcode my api key... can't figure out why the env variables aren't working
 # Main pages involved in setting up the preview are:  
-# pages > index.js, api > preview.js, lib > storyblok.js
+# pages > index.js, 
+# api > preview.js, 
+# lib > storyblok.js
 
 
 ![Screenshot 2021-10-13 at 16 35 34](https://user-images.githubusercontent.com/63723832/137166665-511071e9-6bca-4215-8d85-c031cfdd12ac.png)
